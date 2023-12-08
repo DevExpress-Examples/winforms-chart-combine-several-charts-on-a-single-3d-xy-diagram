@@ -14,3 +14,7 @@ This example demonstrates how to display several series of different view types 
 
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
 * [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+
+## Documentation
+
+* [3D Series Views](https://docs.devexpress.com/WindowsForms/2961/controls-and-libraries/chart-control/series-views/3d-series-views?v=23.2)
