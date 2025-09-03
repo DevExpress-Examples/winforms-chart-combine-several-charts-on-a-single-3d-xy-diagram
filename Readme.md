@@ -18,7 +18,7 @@ This example demonstrates how to display several series of different view types 
 
 ## Documentation
 
-* [3D Series Views](https://docs.devexpress.com/WindowsForms/2961/controls-and-libraries/chart-control/series-views/3d-series-views?v=23.2)
+* [3D Series Views](https://docs.devexpress.com/WindowsForms/2961/controls-and-libraries/chart-control/series-views/3d-series-views)
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
