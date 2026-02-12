@@ -20,7 +20,7 @@ This example demonstrates how to display several series of different view types 
 
 * [3D Series Views](https://docs.devexpress.com/WindowsForms/2961/controls-and-libraries/chart-control/series-views/3d-series-views)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-chart-combine-several-charts-on-a-single-3d-xy-diagram&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-chart-combine-several-charts-on-a-single-3d-xy-diagram&~~~was_helpful=no)
 
